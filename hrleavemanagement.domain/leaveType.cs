@@ -1,0 +1,15 @@
+﻿using hrleavemanagement.domain.Comman;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace hrleavemanagement.domain
+{
+    public class leaveType:baseDomainEntity
+    {
+        public string Name { get; set; }
+        public int DefaultDays { get; set; }
+    }
+}
