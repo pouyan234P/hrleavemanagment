@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace hrleavemanagement.domain
 {
-    public class leaveRequest:baseDomainEntity
+    public class leaveRequests:baseDomainEntity
     {
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }

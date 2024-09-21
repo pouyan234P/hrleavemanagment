@@ -13,8 +13,8 @@ namespace hrleavemanagement.application.Helper
     {
         public autoMapper()
         {
-            CreateMap<leaveRequest, leaveRequestDto>().ReverseMap();
-            CreateMap<leaveAllocation, leaveAllocationDto>().ReverseMap();
+            CreateMap<leaveRequests, leaveRequestDto>().ReverseMap();
+            CreateMap<leaveAllocations, leaveAllocationDto>().ReverseMap();
             CreateMap<leaveType, leaveTypeDto>().ReverseMap();
         }
     }

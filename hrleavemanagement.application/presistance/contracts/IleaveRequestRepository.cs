@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace hrleavemanagement.application.presistance.contracts
 {
-    public interface IleaveRequestRepository:IGenericRepository<leaveRequest>
+    public interface IleaveRequestRepository:IGenericRepository<leaveRequests>
     {
 
     }

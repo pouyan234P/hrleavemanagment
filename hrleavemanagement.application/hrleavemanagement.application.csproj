@@ -8,20 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.10.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\hrleavemanagement.domain\hrleavemanagement.domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="features\leaveAllocation\handlers\Commands\" />
-    <Folder Include="features\leaveAllocation\request\Commands\" />
-    <Folder Include="features\leaveRequest\handlers\Commands\" />
-    <Folder Include="features\leaveRequest\request\Commands\" />
-    <Folder Include="features\leaveTypes\handlers\Commands\" />
-    <Folder Include="features\leaveTypes\request\Commands\" />
   </ItemGroup>
 
 </Project>
