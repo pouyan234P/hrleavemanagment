@@ -1,0 +1,16 @@
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\hrleavemanagement.application.csproj.AssemblyReference.cache
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\hrleavemanagement.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\hrleavemanagement.application.AssemblyInfoInputs.cache
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\hrleavemanagement.application.AssemblyInfo.cs
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\hrleavemanagement.application.csproj.CoreCompileInputs.cache
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\hrleavemanagement.application.sourcelink.json
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\bin\Debug\net8.0\hrleavemanagement.application.deps.json
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\bin\Debug\net8.0\hrleavemanagement.application.dll
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\bin\Debug\net8.0\hrleavemanagement.application.pdb
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\bin\Debug\net8.0\hrleavemanagement.domain.dll
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\bin\Debug\net8.0\hrleavemanagement.domain.pdb
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\hrleavem.59078098.Up2Date
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\hrleavemanagement.application.dll
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\refint\hrleavemanagement.application.dll
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\hrleavemanagement.application.pdb
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.application\obj\Debug\net8.0\ref\hrleavemanagement.application.dll

@@ -12,7 +12,7 @@ namespace hrleavemanagement.application.presistance.contracts
         Task<IEnumerable<T>> GetAll();
         Task<T> Add(T entity);
         Task<bool> Exists(int id);
-        Task<T> Update(T entity);
-        Task<T> Delete(int id);
+        Task Update(T entity);
+        Task Delete(int id);
     }
 }

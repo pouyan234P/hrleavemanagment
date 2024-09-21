@@ -1,0 +1,12 @@
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\bin\Debug\net8.0\hrleavemanagement.infrastructure.deps.json
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\bin\Debug\net8.0\hrleavemanagement.infrastructure.dll
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\bin\Debug\net8.0\hrleavemanagement.infrastructure.pdb
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\obj\Debug\net8.0\hrleavemanagement.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\obj\Debug\net8.0\hrleavemanagement.infrastructure.AssemblyInfoInputs.cache
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\obj\Debug\net8.0\hrleavemanagement.infrastructure.AssemblyInfo.cs
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\obj\Debug\net8.0\hrleavemanagement.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\obj\Debug\net8.0\hrleavemanagement.infrastructure.sourcelink.json
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\obj\Debug\net8.0\hrleavemanagement.infrastructure.dll
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\obj\Debug\net8.0\refint\hrleavemanagement.infrastructure.dll
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\obj\Debug\net8.0\hrleavemanagement.infrastructure.pdb
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.infrastructure\obj\Debug\net8.0\ref\hrleavemanagement.infrastructure.dll

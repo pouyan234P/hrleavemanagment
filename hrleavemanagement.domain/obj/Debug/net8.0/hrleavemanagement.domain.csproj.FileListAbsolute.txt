@@ -9,3 +9,4 @@ C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavema
 C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.domain\obj\Debug\net8.0\refint\hrleavemanagement.domain.dll
 C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.domain\obj\Debug\net8.0\hrleavemanagement.domain.pdb
 C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.domain\obj\Debug\net8.0\ref\hrleavemanagement.domain.dll
+C:\Users\pouyan\Documents\Visual Studio 2022\project\hrleavemanagement\hrleavemanagement.domain\obj\Debug\net8.0\hrleavemanagement.domain.sourcelink.json
